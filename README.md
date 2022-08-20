@@ -1,7 +1,7 @@
 # SpaceX  Falcon 9 first stage Landing Prediction
 
 
-![Space X Dashbord](Dashbord/dashbord.gif)
+![SpaceX Dashbord](Dashbord/dashbord.gif)
 
 ## ML Report 
 |Methodology|Accuracy Train|Accuracy Test|
