@@ -1,12 +1,12 @@
-# Rocket_1st_stage_landing_prediction
-SpaceX  Falcon 9 first stage Landing Prediction
+# SpaceX  Falcon 9 first stage Landing Prediction
 
-## Report
-|index|Accuracy Train|Accuracy Test|
+
+![SpaceX Dashbord](Dashbord/dashbord.gif)
+
+## ML Report 
+|Methodology|Accuracy Train|Accuracy Test|
 |---|---|---|
 |Logreg|0\.82|0\.84|
 |Svm|0\.84|0\.84|
 |Tree|0\.86|0\.84|
 |Knn|0\.83|0\.84|
-
-![](Dash - Personal - Microsoft_ Edge 2022-08-19 18-18-16.gif)
